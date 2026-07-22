@@ -2,8 +2,8 @@ import fs from "fs";
 import { fileURLToPath } from "url";
 
 const __filename = fileURLToPath(import.meta.url);
-global.teleToken    = "7943070733:AAFrukL9Z1jlcGUUb8sU1NHtrZzQ6yjsODo";  
-global.teleOwner    = "7933193490"; 
+global.teleToken    = "TokenBotLu";  
+global.teleOwner    = "idTeleLu"; 
 global.botname       = "RevinzaBotz"
 global.versibot      = "1.0.0"
 global.ownername     = "Revinza" 
