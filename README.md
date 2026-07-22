@@ -5,7 +5,6 @@
 - Custom pairing
 - Anti bad sesi
 - Multi sesion (banyak sesi aman)
-- on 24 jam
 - Base ini bebas lu recode/oprek buat dijadiin bot MD, bot Bug, bot Store, terserah lu.
 ## ⚠️ Disclaimer
 Gunakan base ini secara bijak.
