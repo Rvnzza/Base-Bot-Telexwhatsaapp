@@ -20,4 +20,4 @@ Base ini **100% FREE**
 **Report & Bantuan:**
 Kalo pas di-run nemu error/bug, gausah bingung, langsung hubungi saja 
 
-Tele Maker/Creator: https://telegram.me/RevnzaX7
+Tele Maker/Creator: https://telegram.me/RevinzaX7
